@@ -1,0 +1,42 @@
+﻿  Ransac_main.cpp
+c:\users\lenovo\source\repos\ransac\txtreader.h(43): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(42): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(41): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(95): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(94): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(93): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(160): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(159): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(158): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(156): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(155): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\txtreader.h(154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\ransac\my_color.h(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\source\repos\ransac\ransac_main.cpp(78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lenovo\source\repos\ransac\ransac_main.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lenovo\source\repos\ransac\ransac_main.cpp(105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lenovo\source\repos\ransac\ransac_main.cpp(79): warning C4101: 'point_counter': unreferenced local variable
+c:\users\lenovo\source\repos\ransac\ransac_main.cpp(169): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\source\repos\ransac\ransac_main.cpp(236): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lenovo\source\repos\ransac\ransac_main.cpp(237): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lenovo\source\repos\ransac\ransac_main.cpp(238): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lenovo\source\repos\ransac\ransac_main.cpp(239): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  0 of 691 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ransac.vcxproj -> C:\Users\LENOVO\source\repos\Ransac\Ransac\x64\Release\Ransac.exe

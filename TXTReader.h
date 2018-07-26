@@ -1,14 +1,13 @@
 #pragma once
 
-#include "Util.h"
-#include "Scan_Point.h"
 #include <fstream>
 #include <sstream>
+#include <iostream>
 #include <vector>
-#include <opencv2/opencv.hpp>
+#include "Util.h"
+#include "Scan_Point.h"
 
 using namespace std;
-using namespace cv;
 
 class TXTReader
 {

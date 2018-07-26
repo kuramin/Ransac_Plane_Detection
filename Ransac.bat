@@ -1,1 +1,1 @@
-start "" x64/Release/Laser_Exer4.exe Charite-large.ptx
+start "" Ransac/x64/Release/Ransac.exe Charite-large.ptx
