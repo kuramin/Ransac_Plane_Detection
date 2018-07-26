@@ -1,12 +1,4 @@
 <html>
-<head>
-body img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-</head>
 <body>
 	<h2>Detection of planes in a point cloud via RANSAC</h2>
 	<p>This section describes an application of Random Sample Consensus (RANSAC) algorithm for detection of planes in a point cloud.
