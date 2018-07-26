@@ -35,7 +35,7 @@ c:\users\lenovo\source\repos\ransac\ransac_main.cpp(237): warning C4305: 'initia
 c:\users\lenovo\source\repos\ransac\ransac_main.cpp(238): warning C4305: 'initializing': truncation from 'double' to 'float'
 c:\users\lenovo\source\repos\ransac\ransac_main.cpp(239): warning C4305: 'initializing': truncation from 'double' to 'float'
   Generating code
-  0 of 691 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  1 of 691 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code

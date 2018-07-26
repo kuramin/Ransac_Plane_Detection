@@ -207,7 +207,7 @@ int main(int argc, char** argv)
 {
 	string filePath = "";
 	if (argc != 2) {
-		cerr << "Usage: 3D_Buildings_prj <path scanning results>" << endl;
+		cerr << "Usage: Ransac <path scanning results>" << endl;
 		cerr << "Press enter to continue..." << endl;
 		cin.get();
 		return -1;
