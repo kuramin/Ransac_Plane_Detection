@@ -8,6 +8,6 @@
 	<p>or be more generalised:</p>
 	<img src="images/ransac2.PNG" width="100%"> <br> <br>
 	<p>Algorithm itself, it's application and results are presented in a scientific article which was written by me and can be downloaded as a pdf-file: </p> 
-	<p><a href="https://gitlab.tubit.tu-berlin.de/kuramin/Ransac_Plane_Detection/tree/master/images/Ransac.pdf">Plane detection in a point cloud via RANSAC.pdf</a> </p>		
+	<p><a href="https://github.com/kuramin/Ransac_Plane_Detection/blob/master/Ransac_Kuramin.pdf">Plane detection in a point cloud via RANSAC.pdf</a> </p>		
 </body>
 </html>
